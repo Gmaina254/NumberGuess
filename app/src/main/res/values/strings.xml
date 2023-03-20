@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Guess</string>
+    <string name="welcome">Welcome</string>
+    <string name="bet_amount">Bet Ammount</string>
+    <string name="betNum">Enter Number</string>
+    <string name="hint">Enter a Number between 0-10</string>
+    <string name="bet">BET</string>
+    <string name="refresh">REFRESH</string>
+</resources>
