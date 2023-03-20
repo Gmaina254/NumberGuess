@@ -100,7 +100,8 @@
             android:layout_height="70dp"
             android:text="@string/bet"
             android:textStyle="bold"
-            android:layout_marginStart="30dp"/>
+            android:layout_marginStart="30dp"
+            android:textColor="@color/white"/>
 
         <Button
             android:id="@+id/btnRefresh"
@@ -109,7 +110,8 @@
             android:text="@string/refresh"
             android:textStyle="bold"
             android:layout_marginStart="30dp"
-            android:visibility="gone"/>
+            android:visibility="gone"
+            android:textColor="@color/white"/>
 
 
     </LinearLayout>
